@@ -1,0 +1,6 @@
+[submodule "pod-migrate"]
+	path = pod-migrate
+	url = https://github.com/xwb1136021767/pod-migrate.git
+[submodule "docker_proxy"]
+	path = docker_proxy
+	url = https://github.com/xwb1136021767/docker_proxy.git
